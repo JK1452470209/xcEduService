@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
  * @author Mr.JK
  * @create 2020-08-10  9:33
  */
-@SpringBootApplication
+//@SpringBootApplication 需要时再打开
 public class FreemarkerTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(FreemarkerTestApplication.class,args);
